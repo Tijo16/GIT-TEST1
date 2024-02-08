@@ -6,6 +6,7 @@ import java.util.Scanner;
         {
             int a=15,b=6;
             System.out.println(a-b);
+            save
         }
     }
 
